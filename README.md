@@ -86,5 +86,3 @@ Editable in `DAX.md` and Power Query scripts.
 
 ---
 
-## 📄 License
-MIT — see `LICENSE`.
